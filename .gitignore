@@ -3,3 +3,4 @@
 node_modules
 
 *.key
+encrypted-secret.txt
